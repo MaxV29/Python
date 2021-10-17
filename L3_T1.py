@@ -8,4 +8,4 @@ def div(a, b):
         return "На ноль делить нельзя!"
     return div
 
-print(div(input("Введите первое число: "), input("Введите второе число: ")))
+print(div(input("Введите 1-е число: "), input("Введите 2-е число: ")))
