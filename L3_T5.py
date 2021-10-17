@@ -1,6 +1,6 @@
 sumPow = 0
 while True:
-    sNum = input('Введите числа через пробел: ')
+    sNum = input("Введите числа через пробел: ")
     if sNum == 'q':
         break
     parts = sNum.split()
